@@ -40,6 +40,8 @@ body {
   background-color: #1c1f4a;
   border-radius: 1.6rem;
   width: 100%;
+  max-width:60rem;
+  
 }
 
 .menu-card .card-report {
